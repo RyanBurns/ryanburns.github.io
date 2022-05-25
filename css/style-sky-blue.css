@@ -1155,9 +1155,9 @@ footer .credits a {
 .button:focus {
   outline: 0;
 }
-
+/*This is for the Send Message button  */
 .button:hover {
-  background-color: #1c81c4;
+  background-color: #425C6D;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -1165,7 +1165,7 @@ footer .credits a {
 .button-a {
   background-color: #192C42;
   color: #fff;
-  border-color: #d7ebf8;
+  border-color: #425C6D;
 }
 
 .button-big {

@@ -1,3 +1,9 @@
+/*
+  Theme Name: Ryan-dark-sky-blue
+  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+  Author: BootstrapMade.com
+  License: https://bootstrapmade.com/license/
+*/
 
 /*======================================
 //--//-->   STYLES GENERALES
@@ -156,6 +162,7 @@ a:hover {
 
 .subtitle-a {
   color: #fff;
+  font-size: 1.2rem;
 }
 
 .line-mf {
@@ -795,7 +802,7 @@ a:hover {
 }
 
 .work-content .w-more {
-  color: #425C6D;
+  color: #d7ebf8;
   font-size: .8rem;
 }
 
@@ -886,7 +893,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #192C42;
+  background-color: #425c6d;
   border-radius: 4px;
 }
 

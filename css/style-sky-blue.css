@@ -1,9 +1,3 @@
-/*
-  Theme Name: Ryan-dark-sky-blue
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 
 /*======================================
 //--//-->   STYLES GENERALES
@@ -31,7 +25,7 @@ h2 {
 }
 
 a {
-  color: #1e1e1e;
+  color: #D7EBF8;
   transition: all 0.5s ease-in-out;
 }
 
@@ -806,7 +800,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #192C42;
+  color: whitesmoke;
 }
 /*plus + symbol on portfolio  */
 .work-content .w-like {
@@ -911,7 +905,7 @@ a:hover {
 }
 
 .card-blog .card-description {
-  color: #425C6D;
+  color: whitesmoke;
 }
 
 .card-blog .post-author {

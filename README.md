@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 This is my peronal website to showcase my portfolio and to play around and learn about hosting custom domains, DNS zones and records, nameservers etc.
 
-www.ryandavidburns.com
+www.ryanburns.ie

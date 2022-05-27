@@ -3,7 +3,11 @@
 <!--
 **RyanBurns/RyanBurns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hi, I’m @RyanBurns
+- 👀 I’m interested in cybersecurity and web development
+- 🌱 I’m currently learning PHP and am studying for my CompTIA Security+
+- 📫 hi@ryandavidburns.com
+-     My website is at ryanburns.ie
 
 -Personal website repo
 -->

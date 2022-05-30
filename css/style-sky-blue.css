@@ -10,8 +10,8 @@
 ======================================*/
 
 body {
-  background-color: #425C6D;
-  color: #425C6D;
+  background-color: #2a475e;
+  color: #2a475e;
 }
 
 h1,
@@ -23,11 +23,11 @@ h6 {
 
 /* About Me, Get in Touch, send a message  */
 h5 {
-  color: #192C42;
+  color: #1b2838;
 }
 /* SKILLS, PORTFOLIO, BLOG */
 h2 {
-  color: #192C42;
+  color: #1b2838;
 }
 
 a {
@@ -54,7 +54,7 @@ a:hover {
 }
 
 .color-text-a {
-  color: #425C6D;
+  color: #2a475e;
 }
 
 .box-shadow,
@@ -97,7 +97,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #192C42;
+  background-color: #1b2838;
 }
 
 .overlay-mf {
@@ -144,7 +144,7 @@ a:hover {
 
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #171a21;
   font-size: 1.1rem;
 }
 
@@ -168,7 +168,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #192C42;
+  background-color: #1b2838;
   margin: 0 auto;
 }
 
@@ -187,7 +187,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #425C6D;
+  background-color: #2a475e;
   width: 100px;
   bottom: -12px;
 }
@@ -224,12 +224,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #425C6D;
+  box-shadow: 0 0 0 3px #2a475e;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #425C6D;
+  background-color: #2a475e;
   color: #fff;
   box-shadow: 0 0 0 3px #d7ebf8;
   transition: all 500ms ease;
@@ -254,7 +254,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #192C42;
+  color: #1b2838;
   margin-right: 10px;
 }
 
@@ -268,7 +268,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #192C42;
+  box-shadow: 0 0 0 10px #1b2838;
   display: block;
 }
 
@@ -315,7 +315,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #192C42;
+  background-color: #1b2838;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -334,7 +334,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #192C42;
+  background: #1b2838;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -372,7 +372,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #192C42;
+  border-top: 6px solid #1b2838;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -489,26 +489,26 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #192C42;
+  color: #1b2838;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #192C42;
+  background-color: #1b2838;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #192C42;
+  color: #1b2838;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #192C42;
+  color: #1b2838;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #192C42;
+  color: #1b2838;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
@@ -540,13 +540,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #192C42;
+  background-color: #1b2838;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #192C42;
+  background-color: #1b2838;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -660,7 +660,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #192C42;
+  color: #1b2838;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -693,7 +693,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #425C6D;
+  color: #2a475e;
 }
 
 .skill-mf .progress {
@@ -705,7 +705,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #425C6D;
+  background-color: #2a475e;
 }
 
 /*======================================
@@ -722,13 +722,13 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #192C42;
-  box-shadow: 0 0 0 10px #425C6D;
+  background-color: #1b2838;
+  box-shadow: 0 0 0 10px #2a475e;
 }
 
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #425C6D;
+  color: #2a475e;
 }
 
 .service-box .ico-circle {
@@ -744,7 +744,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #425C6D;
+  color: #2a475e;
 }
 
 /*======================================
@@ -764,7 +764,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #425C6D;
+  box-shadow: 0 0 0 10px #2a475e;
 }
 
 .counter-num .counter {
@@ -860,7 +860,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #192C42;
+  color: #1b2838;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -893,7 +893,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #425c6d;
+  background-color: #2a475e;
   border-radius: 4px;
 }
 
@@ -920,7 +920,7 @@ a:hover {
 }
 
 .card-blog .post-date {
-  color: #425C6D;
+  color: #2a475e;
   display: inline-block;
   float: right;
 }
@@ -947,7 +947,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #192C42;
+  border-left: 4px solid #1b2838;
   margin-top: 1rem;
 }
 
@@ -957,15 +957,15 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #192C42;
+  color: #1b2838;
 }
 
 .blog-wrapper .post-meta ul span {
-  color: #1e1e1e;
+  color: #171a21;
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #192C42;
+  border-left: 4px solid #1b2838;
   padding: 18px;
   font-style: italic;
 }
@@ -997,11 +997,11 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #192C42;
+  color: #1b2838;
 }
 
 .box-comments .list-comments span {
-  color: #1e1e1e;
+  color: #171a21;
   font-style: italic;
 }
 
@@ -1014,7 +1014,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #192C42;
+  border-left: 5px solid #1b2838;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1031,7 +1031,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #192C42;
+  background-color: #1b2838;
   top: 20px;
 }
 
@@ -1042,8 +1042,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #192C42;
-  border-color: #192C42;
+  background-color: #1b2838;
+  border-color: #1b2838;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1051,7 +1051,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #192C42;
+  background-color: #1b2838;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
   border-radius: 15px;
@@ -1100,8 +1100,8 @@ footer .credits a {
 ======================================*/
 
 #sendmessage {
-  color: #192C42;
-  border: 1px solid #192C42;
+  color: #1b2838;
+  border: 1px solid #1b2838;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1158,15 +1158,15 @@ footer .credits a {
 }
 /*This is for the Send Message button  */
 .button:hover {
-  background-color: #425C6D;
+  background-color: #2a475e;
   color: #fff;
   transition: all 500ms ease;
 }
 /* send message button colour */
 .button-a {
-  background-color: #192C42;
+  background-color: #1b2838;
   color: #fff;
-  border-color: #425C6D;
+  border-color: #2a475e;
 }
 
 .button-big {
